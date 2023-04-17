@@ -868,7 +868,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 51714144}
-  cube: {fileID: 0}
+  cube: {fileID: 1386875108}
 --- !u!4 &681693613
 Transform:
   m_ObjectHideFlags: 0
